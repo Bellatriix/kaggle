@@ -4,13 +4,12 @@
 """
 @Author : '张鹏'
 @Software : 'IntelliJ IDEA'
-@File : 'models.py'
+@File : 'data_analysis.py'
 @Time: '2020/6/5 19:53'
 @Desc : 'kaggle新手项目，泰坦尼克号幸存者预测。建模文件'
 """
 
 import pandas as pd
-import tensorflow as tf
 import tensorflow.keras as tfk
 
 if __name__ == '__main__':
